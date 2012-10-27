@@ -54,3 +54,4 @@ gem "bootstrap-sass", ">= 2.1.0.1"
 gem "omniauth", ">= 1.1.1"
 gem "omniauth-github"
 gem "simple_form", ">= 2.0.4"
+gem "hub", ">= 1.10.2", :require => nil, :group => [:development]
